@@ -1,0 +1,9 @@
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ERICK\Desktop\Ejercicio14-10-24\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
